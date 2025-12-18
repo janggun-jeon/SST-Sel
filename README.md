@@ -1,7 +1,7 @@
 # A Study on Prompt Selection based on User Preferences in the LLM-as-Recommender System
  This repository was created for LLM as Recommender to experiment with popular item recommendation bias based on prompts.
-
-![Image](https://github.com/user-attachments/assets/aac976a6-5e79-43c6-9be8-ab326f7f973a)
+<br><br><br>
+![Image](https://github.com/user-attachments/assets/6d8ff554-505a-47f3-a9fa-5dffda33027d)
 
 ### view: [https://janggun-jeon.github.io/SST-Sel/](https://janggun-jeon.github.io/SST-Sel/)
 
